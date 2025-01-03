@@ -7,6 +7,7 @@ package cn.polarbear;
 public class Something {
     public static void main(String[] args) {
         doSomething();
+        System.out.println("Test Blame");
     }
 
     private static void doSomething() {
